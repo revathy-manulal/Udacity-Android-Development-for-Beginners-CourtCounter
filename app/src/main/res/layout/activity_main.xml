@@ -41,6 +41,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
                 android:onClick="point3A"
                 android:text="+3 Points" />
 
@@ -49,6 +51,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
                 android:onClick="point2A"
                 android:text="+2 Points" />
 
@@ -57,6 +61,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
                 android:onClick="freeThrowA"
                 android:text="Free Throw" />
 
@@ -98,6 +104,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
                 android:onClick="point3B"
                 android:text="+3 Points" />
 
@@ -106,6 +114,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
                 android:onClick="point2B"
                 android:text="+2 Points" />
 
@@ -114,6 +124,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
                 android:onClick="freeThrowB"
                 android:text="Free Throw" />
 
